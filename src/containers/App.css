@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Photographer Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Photographer Regular'), url('Photographer.woff') format('woff');
+}
+
+h1{
+    font-family: 'Photographer Regular';
+    font-weight: 900;
+    color: #0ccac4;
+}
